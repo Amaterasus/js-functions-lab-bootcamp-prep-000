@@ -10,5 +10,5 @@ function happyHolidaysTo(name)
 
 function happyHolidayTo(holiday, name)
 {
-  
+  `Happy ${holiday}, ${name}!`
 }
